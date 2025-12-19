@@ -1,0 +1,46 @@
+# Setup files (should be deleted after initial setup)
+# Note: Keep config files but ensure database credentials are changed in production
+setup/init_admin.php
+
+# Uploaded files
+uploads/products/*
+!uploads/products/index.php
+uploads/*.php
+!uploads/index.php
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# PHP specific
+vendor/
+composer.lock
+.phpunit.result.cache
+
+# Environment files
+.env
+.env.local
+
