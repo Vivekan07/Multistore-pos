@@ -93,7 +93,7 @@ A comprehensive Point of Sale (POS) system designed for retail shops with multi-
 
 6. **Access the application**:
    - Open browser: http://localhost/Pos/
-   - Login with Super Admin credentials: `vivekan` / `vivekan1409`
+   - Login with Super Admin credentials: `vivekan` / `contactforpqq`
 
 ## Database Schema
 
